@@ -1,0 +1,7 @@
+Rule_ID,Condition,Action
+R001,EV Vehicle,Assign EV Charging Slot
+R002,VIP User,Assign VIP Slot
+R003,Disabled User,Assign Disabled Slot
+R004,Preferred Zone Full,Find Nearest Zone
+R005,No Slot Available,Waiting List
+R006,Bike,Allocate Bike Slot
